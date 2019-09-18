@@ -1,0 +1,34 @@
+/* Styles for the blog page, applied to dynamically generated HTML.*/
+
+/* styles for the main div on the publisher page to hold the returned ads*/
+#medianet{
+
+}
+
+.keywordsUl{
+
+}
+
+.keyword-Li{
+
+}
+.keyword-name{
+
+    padding : 10px;
+
+}
+.keyword-Link{
+
+}
+
+
+
+/* The below CSS gets applied on devices with small screens. */
+@media (max-width: 980px) {
+
+    /* Reduce the margin. */
+    body {
+        margin: 0px ;
+    }
+
+}
